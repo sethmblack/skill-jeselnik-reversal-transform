@@ -3,8 +3,9 @@ name: jeselnik-reversal-transform
 description: Apply the Jeselnik Reversal Framework to transform generic content into dark comedy with misdirection.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4283
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
 - jeselnik-reversal-transform
