@@ -4,7 +4,7 @@ description: Apply the Jeselnik Reversal Framework to transform generic content 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4283
+  version: 1.0.4284
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
